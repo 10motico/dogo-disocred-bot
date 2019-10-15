@@ -3,6 +3,12 @@
 prefix: dogo
 commends:
 
+dogo help
+
+wtf-posts a wtf gif
+
+kill-posts a killing gif
+
 dogo i have food- posts a gif related to food
 
 dogo are you really a dog- answers with yes
@@ -13,7 +19,7 @@ dogo who is a good dogo- answers with "me!"
 
 dogo echo - echos messages content 
 
-dogo spam - spames mesaages content 10 times
+dogo spam -tells the users to fuck off [this command is not ToS friendly]     //old(spames mesaages content 10 times)
 
 "dogo pet" or "dogo i pet you"- gif of a peted dog
 
