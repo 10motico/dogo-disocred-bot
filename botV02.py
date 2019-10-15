@@ -6,7 +6,7 @@ import random
 from discord.ext import commands
 
 client = discord.Client()
-TOKEN="NjA1MzUwNDQ1ODA3ODI5MDA4.XT8Rbw.AkFaNaHZuj3CXzG7_-_JdR9_UD8"
+TOKEN=     #token goes here
 @client.event
 async def on_message(message):
     # we do not want the bot to reply to itself
