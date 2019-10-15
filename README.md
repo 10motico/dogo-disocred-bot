@@ -31,4 +31,6 @@ bot is still and dev and runs on some randome hardwere please be nice to dogo
 
 #i delted the token in the code for obvies resons
 
+the V01 is not ToS firendly and doesnt have 2 new commands
+
 discord name:high on flux#0789
