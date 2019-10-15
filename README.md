@@ -3,11 +3,11 @@
 prefix: dogo
 commends:
 
-dogo help
+dogo help should be in v01 
 
-wtf-posts a wtf gif
+wtf-posts a wtf gif starts from V02
 
-kill-posts a killing gif
+kill-posts a killing gif starts from V02
 
 dogo i have food- posts a gif related to food
 
