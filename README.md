@@ -31,4 +31,4 @@ bot is still and dev and runs on some randome hardwere please be nice to dogo
 
 #i delted the token in the code for obvies resons
 
-discord name:its booms day#0789
+discord name:high on flux#0789
