@@ -39,4 +39,4 @@ bot is still and dev and runs on some randome hardwere please be nice to dogo
 
 the V01 is not ToS firendly and doesnt have 2 new commands
 
-discord name:high on flux#0789
+discord name:typo grandmister#0789
